@@ -1,0 +1,2 @@
+echo "MY FIRST GIT PROJECT"
+echo "AFTERNOON EXAM"
